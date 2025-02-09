@@ -2,3 +2,4 @@
 - Branch
 - Fork
 - Merge
+- Conflict
